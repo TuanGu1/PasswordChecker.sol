@@ -10,3 +10,4 @@ contract PasswordChecker {
         return keccak256(abi.encodePacked(_pass)) == keccak256(abi.encodePacked(password));
     }
 }
+Add basic contract structure
