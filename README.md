@@ -11,3 +11,4 @@ contract PasswordChecker {
     }
 }
 Add basic contract structure
+Fix minor bug in function
