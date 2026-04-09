@@ -14,3 +14,4 @@ Add basic contract structure
 Fix minor bug in function
 Update logic for better performance
 Refactor code for readability
+Add new feature
