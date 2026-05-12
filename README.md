@@ -17,3 +17,4 @@ Refactor code for readability
 Add new featur
 Add core contract logic
 Improve naming scheme
+Add helper function
